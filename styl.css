@@ -1,0 +1,10 @@
+canvas {
+		border: #666 1px solid;
+		
+}
+input,button {
+  padding: 10px;
+  border: solid 1px #dcdcdc;
+  transition: box-shadow 0.3s, border 0.3s;
+  width: 50px;
+}
